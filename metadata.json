@@ -1,0 +1,6 @@
+{
+  "name": "BhoomiSetu",
+  "description": "AI-Powered Land Acquisition Early Warning System with stage-wise explainable delay prediction and counterfactual what-if simulation for RFCTLARR Act 2013 projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
